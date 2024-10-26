@@ -8,3 +8,5 @@
 - Weapon
 - Eye col
 - Ability: Heal/Attack/Defence
+
+## When you run the code in generator.js it will generate your character!
