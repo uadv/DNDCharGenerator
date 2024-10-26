@@ -7,6 +7,4 @@
 - Race
 - Weapon
 - Eye col
-- If horns/wings/tail
 - Ability: Heal/Attack/Defence
-- Height
